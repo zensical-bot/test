@@ -4,7 +4,17 @@ body:
 - type: markdown
   attributes:
     value: |
-      You will not be able __to submit the form__.
+      > [!NOTE]
+      > 
+      > **Discussions Closed**
+      >
+      > We have decided to close the creation of new discussions in this forum to focus our community conversations on Discord. Please join us there for real-time help, support, and discussions:
+      >
+      > [Join our Discord](https://discord.gg/your-invite-link)
+      >
+      > This forum will remain open as a read-only archive to preserve all answered posts and valuable content. You can still browse existing discussions for information and reference.
+      >
+      > Thank you for your understanding and cooperation!
 - type: dropdown
   id: download
   attributes:
