@@ -1,6 +1,11 @@
 title: "Q&A"
 labels: []
 body:
-  - type: markdown
-    attributes:
-      value: "This is Markdown"
+- type: dropdown
+  id: download
+  attributes:
+    label: How did you download the software?
+    options: []
+    default: 0
+  validations:
+    required: true
