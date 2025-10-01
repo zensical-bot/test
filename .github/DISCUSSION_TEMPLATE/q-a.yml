@@ -1,20 +1,42 @@
-title: "Q&A"
+title: ""
 labels: []
 body:
 - type: markdown
   attributes:
     value: |
-      > [!NOTE]
+      > [!IMPORTANT]
       > 
-      > **Discussions Closed**
+      > **Discussions closed as of $date**
       >
-      > We have decided to close the creation of new discussions in this forum to focus our community conversations on Discord. Please join us there for real-time help, support, and discussions:
+      > As outlined in our [blog post](#), we're closing our discussion board, moving
+      > the community to our new [Discord channel](#) over at Zensical. This means
+      > that it's not possible to create new discussions, or comment on existing ones.
+      > You can join our [Discord channel](#) to continue the conversation, or, if you
+      > are a professional user, consider joining [Zensical Spark](#), our
+      > collaborative space for professionals.
       >
-      > [Join our Discord](https://discord.gg/your-invite-link)
+      > Thank you for your understanding.
       >
-      > This forum will remain open as a read-only archive to preserve all answered posts and valuable content. You can still browse existing discussions for information and reference.
+      > In case you have questions not directly related to Material for MkDocs, but
+      > to the wider ecosystem, consider creating a discussion on the respective
+      > repository. Here's a list of discussion boards of the most popular ecosystem
+      > projects:
       >
-      > Thank you for your understanding and cooperation!
+      > ### MkDocs & Python Markdown
+      >
+      > - [MkDocs] ([Issues][MkDocs issues], [Discussions][MkDocs discussions])
+      > - [Pymdown Extensions] ([Issues][Pymdown Extensions issues], [Discussions][Pymdown Extensions discussions])
+      > - [Python Markdown] ([Issues][Python Markdown issues])
+      >
+      > ### Popular MkDocs plugins
+      > 
+      > - [Mike] ([Issues][Mike issues], [Discussions][Mike discussions])
+      > - [Macros] ([Issues][Macros issues], [Discussions][Macros discussions])
+      > - [Git Revision Date Localized] ([Issues][Git Revision Date Localized issues])
+      > - [Awesome Nav] ([Issues][Awesome Nav issues])
+      > - [Static i18n] ([Issues][Static i18n issues])
+      > - [MkDocs Literate Nav] ([Issues][MkDocs Literate Nav issues])
+      >
 - type: dropdown
   id: download
   attributes:
