@@ -22,7 +22,7 @@ body:
       >
       > __MkDocs & Python Markdown__
       >
-      > - [MkDocs] ([MkDocs issues][Issues], [Discussions][MkDocs discussions])
+      > - [MkDocs] ([Issues][MkDocs issues], [Discussions][MkDocs discussions])
       > - [Pymdown Extensions] ([Issues][Pymdown Extensions issues], [Discussions][Pymdown Extensions discussions])
       > - [Python Markdown] ([Issues][Python Markdown issues])
       >
@@ -36,23 +36,23 @@ body:
       > - [MkDocs Literate Nav] ([Issues][MkDocs Literate Nav issues])
       >
       > [MkDocs]: https://github.com/mkdocs/mkdocs
-      > [MkDocs discussions] https://github.com/mkdocs/mkdocs/discussions
-      > [MkDocs issues] https://github.com/mkdocs/mkdocs/issues
+      > [MkDocs issues]: https://github.com/mkdocs/mkdocs/issues
+      > [MkDocs discussions]: https://github.com/mkdocs/mkdocs/discussions
       > [Pymdown Extensions]: https://github.com/facelessuser/pymdown-extensions
-      > [Pymdown Extensions discussions] https://github.com/facelessuser/pymdown-extensions/discussions
-      > [Pymdown Extensions issues] https://github.com/facelessuser/pymdown-extensions/issues
+      > [Pymdown Extensions discussions]: https://github.com/facelessuser/pymdown-extensions/discussions
+      > [Pymdown Extensions issues]: https://github.com/facelessuser/pymdown-extensions/issues
       > [Python Markdown]: https://github.com/Python-Markdown/markdown
-      > [Python Markdown issues] https://github.com/Python-Markdown/markdown/issues
+      > [Python Markdown issues]: https://github.com/Python-Markdown/markdown/issues
       > [Mike]: https://github.com/mike
-      > [Mike issues] https://github.com/mike/issues
-      > [Mike discussions] https://github.com/mike/discussions
+      > [Mike issues]: https://github.com/mike/issues
+      > [Mike discussions]: https://github.com/mike/discussions
       > [Macros]: https://github.com/fralau/mkdocs-macros-plugin
-      > [Macros issues] https://github.com/fralau/mkdocs-macros-plugin/issues
-      > [Macros discussions] https://github.com/fralau/mkdocs-macros-plugin/discussions
+      > [Macros issues]: https://github.com/fralau/mkdocs-macros-plugin/issues
+      > [Macros discussions]: https://github.com/fralau/mkdocs-macros-plugin/discussions
       > [Git Revision Date Localized]: https://github.com/timvink/mkdocs-git-revision-date-localized-plugin
-      > [Git Revision Date Localized issues] https://github.com/timvink/mkdocs-git-revision-date-localized-plugin/issues
+      > [Git Revision Date Localized issues]: https://github.com/timvink/mkdocs-git-revision-date-localized-plugin/issues
       > [Awesome Nav]: https://github.com/lukasgeiter/mkdocs-awesome-nav
-      > [Awesome Nav issues] https://github.com/lukasgeiter/mkdocs-awesome-nav/issues
+      > [Awesome Nav issues]: https://github.com/lukasgeiter/mkdocs-awesome-nav/issues
       > [Static i18n]: https://github.com/ultrabug/mkdocs-static-i18n
       > [Static i18n issues]: https://github.com/ultrabug/mkdocs-static-i18n/issues
       > [Static i18n discussions]: https://github.com/ultrabug/mkdocs-static-i18n/discussions
