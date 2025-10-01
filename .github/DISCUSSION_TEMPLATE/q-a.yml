@@ -1,10 +1,14 @@
 title: "Q&A"
 labels: []
 body:
+- type: markdown
+  attributes:
+    value: |
+      You will not be able __to submit the form__.
 - type: dropdown
   id: download
   attributes:
-    label: How did you download the software?
+    label: ""
     options: []
     default: 0
   validations:
